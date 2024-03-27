@@ -1,7 +1,6 @@
  
 .menu_block  {
 	position: relative;
-	padding-left: 144px;
 	padding-top: 97px;
 
 }
@@ -19,7 +18,7 @@ nav{ position:relative;padding: 0px 0 0 0;}
 }
 
 .sf-menu>li:first-child+li+li {
-	margin-right: 227px;
+	margin-right: 280px;
 }
 
 .sf-menu>li+li {
@@ -45,7 +44,7 @@ nav{ position:relative;padding: 0px 0 0 0;}
 
 
 .sf-menu>li.sfHover>a, .sf-menu>li.current>a, .sf-menu>li:hover>a:hover {
-	color: #263555;
+	color: #00c486;
 }
 
 

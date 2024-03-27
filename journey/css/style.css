@@ -236,8 +236,7 @@ a.link-1:hover {
  -webkit-box-sizing: border-box;
  -o-box-sizing: border-box;
  box-sizing: border-box;
-	margin-bottom: 25px;
- margin-top: 3px;
+ padding-bottom: 1rem;
  position: relative;
 }
 
